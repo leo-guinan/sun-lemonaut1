@@ -1,0 +1,382 @@
+{
+  "id": "sun-lemonaut1",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@lemonaut1 Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_ea79ad600c01",
+    "display_name": "lemonaut1",
+    "user_id": "@lemonaut1",
+    "description": "Community Archive-derived proof-of-search sun for @lemonaut1.",
+    "document_count": 8200,
+    "word_count": 183479,
+    "active_days": 1037,
+    "emissions": [
+      "Time",
+      "Think",
+      "Good",
+      "Really",
+      "Way",
+      "Want"
+    ],
+    "generated_at": "2026-06-27T16:26:01.216652+00:00",
+    "color": "#f59e0b",
+    "mass": 12.12
+  },
+  "planets": [
+    {
+      "id": "planet_fbc1456f2ba6",
+      "name": "Time",
+      "summary": "Archive cluster around time: 6581 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "life",
+        "now",
+        "feel",
+        "world"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4bb7d11f5961",
+          "title": "Time receipt from 2022-12-23",
+          "excerpt": "ChatGPT is giving me batshit crazy terrific suggestions in my struggles with creative expression. I am moved to tears that a robot could do this for me",
+          "source_document_id": "1606173215289618432",
+          "timestamp": "2022-12-23T06:21:50+00:00",
+          "url": "https://x.com/lemonaut1/status/1606173215289618432",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, life, now, feel."
+        },
+        {
+          "id": "art_fd3c526f32fc",
+          "title": "Time receipt from 2024-08-02",
+          "excerpt": "If something as simple as cells can work together harmoniously to form something as complex as our bodies, I have no doubt that we can work together to build the kind of society that we as humans need.",
+          "source_document_id": "1819209776636874798",
+          "timestamp": "2024-08-02T03:13:04+00:00",
+          "url": "https://x.com/lemonaut1/status/1819209776636874798",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, life, now, feel."
+        },
+        {
+          "id": "art_652efc2e3d49",
+          "title": "Time receipt from 2024-09-07",
+          "excerpt": "@TylerAlterman powerful thing to ask for\nit's exactly what we ought to be ask for more from each other",
+          "source_document_id": "1832248277724754244",
+          "timestamp": "2024-09-07T02:43:25+00:00",
+          "url": "https://x.com/lemonaut1/status/1832248277724754244",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, life, now, feel."
+        },
+        {
+          "id": "art_d88c2b69cc55",
+          "title": "Time receipt from 2022-05-28",
+          "excerpt": "\"Tunnel vision\" is a literal phenomenon! \n\nIt's mediated by dissociative attention shrinking, where your inner world simulation narrows from hemisphere-ish to cylinder-ish.",
+          "source_document_id": "1530653905037643776",
+          "timestamp": "2022-05-28T20:55:03+00:00",
+          "url": "https://x.com/lemonaut1/status/1530653905037643776",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, life, now, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5e06b1c8736e",
+      "proof_score": 1,
+      "mass": 35.364,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_12f4d40a321c",
+      "name": "Think",
+      "summary": "Archive cluster around think: 407 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "way",
+        "don",
+        "good",
+        "could"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ccf5d1e32f4d",
+          "title": "Think receipt from 2022-06-08",
+          "excerpt": "Just turned in my very last paper at stanford. \n\nfeeling very mixed-valence. im quite proud of this even tho it feels messy and i went a couple pages over the 10-page limit. i think this and my previous essay prove that i can *do philosophy*, something i have been v insecure... https://t.co/6tELopjEyL",
+          "source_document_id": "1534327414993473536",
+          "timestamp": "2022-06-08T00:12:16+00:00",
+          "url": "https://x.com/lemonaut1/status/1534327414993473536",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, way, don, good."
+        },
+        {
+          "id": "art_ef8906f2fa70",
+          "title": "Think receipt from 2023-10-17",
+          "excerpt": "@jacksoncapper @uncle_deluge Why not add 10,000 years to calendar? To me it gives an accurate sense of when human civilization actually began (when we first became coordinated enough to build things). I think Yuval Noah Harrari would roughly agree",
+          "source_document_id": "1714367754156065160",
+          "timestamp": "2023-10-17T19:48:18+00:00",
+          "url": "https://x.com/lemonaut1/status/1714367754156065160",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, way, don, good."
+        },
+        {
+          "id": "art_ee628c098bf3",
+          "title": "Think receipt from 2025-03-05",
+          "excerpt": "@suntzoogway I think he *gets it* in a way that is positively infectious, like a good virus that goes around whimsically unlocking peoples' fullest potential and clearing out limiting beliefs. There's an essence there and you could make it into a vaccine for the struggles of everyday life",
+          "source_document_id": "1897182135351697622",
+          "timestamp": "2025-03-05T07:07:23+00:00",
+          "url": "https://x.com/lemonaut1/status/1897182135351697622",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, way, don, good."
+        },
+        {
+          "id": "art_18cb2f4aef50",
+          "title": "Think receipt from 2024-09-17",
+          "excerpt": "i think fonts are interesting wild and crazy and have more depth to them as an artistic medium than is commonly represented https://t.co/zrbG2PKlH9",
+          "source_document_id": "1835967805679931718",
+          "timestamp": "2024-09-17T09:03:30+00:00",
+          "url": "https://x.com/lemonaut1/status/1835967805679931718",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, way, don, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6db736b90529",
+      "proof_score": 0.951,
+      "mass": 28.537,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_3efa41537117",
+      "name": "Good",
+      "summary": "Archive cluster around good: 360 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "really",
+        "feel",
+        "way",
+        "bad"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b47dff394736",
+          "title": "Good receipt from 2023-01-05",
+          "excerpt": "people have been asking why I am on private:\nthe good news is I GOT A JOB!!! (SWE) and soon the rest of my life can start as I create healing for myself.\n\nthe bad news is that i need to pass a couple levels of security clearance first. accepting prayers",
+          "source_document_id": "1610927370046935040",
+          "timestamp": "2023-01-05T09:13:09+00:00",
+          "url": "https://x.com/lemonaut1/status/1610927370046935040",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, feel, way."
+        },
+        {
+          "id": "art_0bdc4633db58",
+          "title": "Good receipt from 2024-08-30",
+          "excerpt": "\"X good, Y bad\" is bad\n\nyou must see with nuance, beyond the black and white.\n\nbut as that first step towards accepting the downsides of Y, it's soo helpful.",
+          "source_document_id": "1829486533923279180",
+          "timestamp": "2024-08-30T11:49:14+00:00",
+          "url": "https://x.com/lemonaut1/status/1829486533923279180",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, feel, way."
+        },
+        {
+          "id": "art_e3607755d8fc",
+          "title": "Good receipt from 2022-11-22",
+          "excerpt": "Looking through photographs of the last 5 years and consolidating my memories. Finally it's all making sense. I can see the hidden pain and fear on my face as it grows depending on my environment. I can also see the gentleness in my face when things r really good :)",
+          "source_document_id": "1595026917375311872",
+          "timestamp": "2022-11-22T12:10:25+00:00",
+          "url": "https://x.com/lemonaut1/status/1595026917375311872",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, feel, way."
+        },
+        {
+          "id": "art_54dbd345dad9",
+          "title": "Good receipt from 2024-01-31",
+          "excerpt": "@visakanv ugh why is visa so good\nthis finger waggling energy of getting right to the heart of some Thing that i cant quite put my finger on. which is probably why visa's finger is on it.\nhttps://t.co/FmWSNgrJMf",
+          "source_document_id": "1752637652237787591",
+          "timestamp": "2024-01-31T10:19:13+00:00",
+          "url": "https://x.com/lemonaut1/status/1752637652237787591",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, feel, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_49bb0247b9ab",
+      "proof_score": 0.939,
+      "mass": 27.83,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_30a9d4892d89",
+      "name": "Really",
+      "summary": "Archive cluster around really: 289 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "want",
+        "know",
+        "see",
+        "something"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a5a9ac5b17ba",
+          "title": "Really receipt from 2023-10-07",
+          "excerpt": "Visakan has an eye for content that I can't look away from \n\nHe finds videos/writing/content that are really, how to say, culturally expressive? He does a thing I've been wanting someone to do and am glad he is doing it. \n\nHow would you describe his manner of curation? https://t.co/nlI5zH4dsx",
+          "source_document_id": "1710777176382218430",
+          "timestamp": "2023-10-07T22:00:38+00:00",
+          "url": "https://x.com/lemonaut1/status/1710777176382218430",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, see."
+        },
+        {
+          "id": "art_8a74e791d535",
+          "title": "Really receipt from 2023-10-11",
+          "excerpt": "As a transhumanist: Transhumanists should aim to get really very comfortable and safe in their bodies and nervous systems (rationalist blind spots = embodiment &amp; healing) before solidifying serious judgements about \"what's next\". https://t.co/1pImmLQwzj",
+          "source_document_id": "1711928080871440386",
+          "timestamp": "2023-10-11T02:13:55+00:00",
+          "url": "https://x.com/lemonaut1/status/1711928080871440386",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, see."
+        },
+        {
+          "id": "art_1f0d655bfaf5",
+          "title": "Really receipt from 2022-08-15",
+          "excerpt": "Im more of a creative coder so this can be really soul sucking stuff",
+          "source_document_id": "1559265641453854721",
+          "timestamp": "2022-08-15T19:47:53+00:00",
+          "url": "https://x.com/lemonaut1/status/1559265641453854721",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, see."
+        },
+        {
+          "id": "art_31639892db93",
+          "title": "Really receipt from 2022-08-02",
+          "excerpt": "Wow, Christianity is actually a really advanced piece of consciousness technology. You just have to:\n(1) not take it literally\n(2) be a nerd about phenomenology \n\n(...I will be elaborating on this later!)",
+          "source_document_id": "1554352167732924418",
+          "timestamp": "2022-08-02T06:23:29+00:00",
+          "url": "https://x.com/lemonaut1/status/1554352167732924418",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, see."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_be5c7361a6b9",
+      "proof_score": 0.917,
+      "mass": 27.489,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_83ca63efa4ac",
+      "name": "Way",
+      "summary": "Archive cluster around way: 300 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "way",
+        "feel",
+        "too",
+        "things",
+        "life"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5baa8184b0cb",
+          "title": "Way receipt from 2022-06-29",
+          "excerpt": "Don't be dissuaded by its meek name--\n\nInternal Family Systems is a way of making your real life psychedelic, of inviting your emotional problems to solve themselves, and of gaining an immense amount of clarity into the inner workings of yourself + the way you construct reality. https://t.co/64tCYe8YFP",
+          "source_document_id": "1542269533020336129",
+          "timestamp": "2022-06-29T22:11:25+00:00",
+          "url": "https://x.com/lemonaut1/status/1542269533020336129",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, feel, too, things."
+        },
+        {
+          "id": "art_5882ce0ec051",
+          "title": "Way receipt from 2022-06-13",
+          "excerpt": "searching \"phenomenology of cannabis\" on YouTube returns no relevant search results. (boo!)\n\nis there another nifty way I can find non-stoner science videos dissecting the phenomenology of the cannabis experience?",
+          "source_document_id": "1536175332054642688",
+          "timestamp": "2022-06-13T02:35:14+00:00",
+          "url": "https://x.com/lemonaut1/status/1536175332054642688",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, feel, too, things."
+        },
+        {
+          "id": "art_ff54b454ae71",
+          "title": "Way receipt from 2023-09-11",
+          "excerpt": "@melodaysong @VividVoid_ How long does it normally take you guys? For me it was taking way too long, 1+hr.",
+          "source_document_id": "1701381018803224710",
+          "timestamp": "2023-09-11T23:43:39+00:00",
+          "url": "https://x.com/lemonaut1/status/1701381018803224710",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, feel, too, things."
+        },
+        {
+          "id": "art_5932e8b84a00",
+          "title": "Way receipt from 2023-04-01",
+          "excerpt": "Chilling at Stanford's campus I'm noticing all the interactions are at 1.5x speed. \"I'm willing to be slow with you\" in an environment like this goes a long way.",
+          "source_document_id": "1642286166698500096",
+          "timestamp": "2023-04-01T22:01:48+00:00",
+          "url": "https://x.com/lemonaut1/status/1642286166698500096",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, feel, too, things."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9bd73396728e",
+      "proof_score": 0.921,
+      "mass": 27.664,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_3d248e23d0ad",
+      "name": "Want",
+      "summary": "Archive cluster around want: 263 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "see",
+        "myself",
+        "don",
+        "life"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f776951e5b1f",
+          "title": "Want receipt from 2022-07-03",
+          "excerpt": "@algekalipso I want to andrés do a David goggins-style motivational speech while working out at the gym, but it's all philosophy",
+          "source_document_id": "1543455024172244992",
+          "timestamp": "2022-07-03T04:42:08+00:00",
+          "url": "https://x.com/lemonaut1/status/1543455024172244992",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, see, myself, don."
+        },
+        {
+          "id": "art_9a62a263c009",
+          "title": "Want receipt from 2024-08-30",
+          "excerpt": "I want to put out a sonar blast that people who interact with me online can fairly assume I'm extremely open-minded, curious about your opinion, not offended by differing beliefs, and I don't take anything I believe so seriously that I can't change my mind in spite of evidence.",
+          "source_document_id": "1829486538847322308",
+          "timestamp": "2024-08-30T11:49:15+00:00",
+          "url": "https://x.com/lemonaut1/status/1829486538847322308",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, see, myself, don."
+        },
+        {
+          "id": "art_d3c4e4ae1721",
+          "title": "Want receipt from 2024-08-30",
+          "excerpt": "I want to put out a sonar blast also that I won't ad-hominem you, or attack you for having different opinions than me. These are the table stakes I see for having a discussion, and they go both ways. \n\nthese are core to who i am, and how i show up online",
+          "source_document_id": "1829486540432830606",
+          "timestamp": "2024-08-30T11:49:16+00:00",
+          "url": "https://x.com/lemonaut1/status/1829486540432830606",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, see, myself, don."
+        },
+        {
+          "id": "art_832e2a7b6e28",
+          "title": "Want receipt from 2024-08-03",
+          "excerpt": "this is why i don't believe in the distinction between artificial vs natural selection; it's the same force guiding both things. if you want to say that human thought makes an evolutionary process 'artificial', then go ahead. but there's no separation here",
+          "source_document_id": "1819571669247447322",
+          "timestamp": "2024-08-03T03:11:06+00:00",
+          "url": "https://x.com/lemonaut1/status/1819571669247447322",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, see, myself, don."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c08d3d0e7258",
+      "proof_score": 0.908,
+      "mass": 26.942,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
